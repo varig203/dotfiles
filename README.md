@@ -1,2 +1,2 @@
 # dotfiles
-Just various dotfiles
+Just various dotfiles from my laptop
